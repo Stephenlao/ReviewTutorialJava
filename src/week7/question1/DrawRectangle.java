@@ -13,5 +13,6 @@ public class DrawRectangle {
             }
             System.out.println();
         }
+        System.out.println("Thank you");
     }
 }
