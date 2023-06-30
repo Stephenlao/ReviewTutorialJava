@@ -47,8 +47,6 @@ public class mainQ5 {
             System.out.printf("Hottest temperature: %.2f in month %d year %d",hottestTemperature,hottestMonth,hottestYear);
         } else {
             System.out.println("There is no temperature input");
-            System.out.println("hahahadfsdfs");
-            System.out.println("hihihihihihih");
         }
         fileScanner.close();
     }
