@@ -20,7 +20,8 @@ public class DrawRectangle {
         System.out.println("see you again");
         System.out.println("see you again");
         System.out.println("see you again");
-        System.out.println("see you again");
+        System.out.println("happy new year"); // modify the new string in github
+        
 
     }
 }
