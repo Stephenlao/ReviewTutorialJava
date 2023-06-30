@@ -20,7 +20,7 @@ public class DrawRectangle {
         System.out.println("see you again");
         System.out.println("see you again");
         System.out.println("see you again");
-        System.out.println("see you again");
+        System.out.println("see you again lala"); // fix in intellij idea
 
     }
 }
