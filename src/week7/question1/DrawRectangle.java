@@ -14,7 +14,6 @@ public class DrawRectangle {
             System.out.println();
         }
 
-
-
+        System.out.println("Hello world <3");
     }
 }
