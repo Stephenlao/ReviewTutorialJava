@@ -5,7 +5,7 @@ import java.io.*;
 public class mainQ1andQ2 {
     //filewriter should add the IOException
     public static void main(String[] args) throws IOException {
-        PrintWriter pw = new PrintWriter(new FileWriter("src/TomTutorial.week8/question1/users.txt"));
+        PrintWriter pw = new PrintWriter(new FileWriter("src/TomTutorial/week8/question1andquestion2/users.txt"));
         Scanner scanner = new Scanner(System.in);
         String userChoice = "Y";
         int userAge = 0;
@@ -30,7 +30,7 @@ public class mainQ1andQ2 {
         pw.close();
 
         System.out.println("Read users.txt file to console: ");
-        Scanner fileScanner = new Scanner(new File("src/TomTutorial.week8/question1/users.txt"));
+        Scanner fileScanner = new Scanner(new File("src/TomTutorial/week8/question1andquestion2/users.txt"));
         while(fileScanner.hasNext()) {
             System.out.println(fileScanner.nextLine());
         }

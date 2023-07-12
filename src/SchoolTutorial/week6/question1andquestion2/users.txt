@@ -1,0 +1,28 @@
+Name: khang
+Address: sala
+Age: 21
+---------------------
+Name: khanh
+Address: cmt8
+Age: 39
+---------------------
+Name: khanhg
+Address: sala
+Age: 21
+---------------------
+Name: khanh
+Address: cmt8
+Age: 39
+---------------------
+Name: uyen
+Address: tan binh
+Age: 21
+---------------------
+Name: hung
+Address: binh thanh
+Age: 18
+---------------------
+Name: hoang
+Address: binh phu
+Age: 38
+---------------------
